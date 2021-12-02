@@ -1,24 +1,8 @@
 # amanda-birthday-frontend
 
-## Project setup
+## CD INTO THE APP AND DO THIS OR THE CONFETTI WONT WORK!
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm install canvas-confetti --save
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
