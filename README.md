@@ -1,8 +1,8 @@
 # amanda-birthday-frontend
 
-## CD INTO THE APP AND DO THIS OR THE CONFETTI WONT WORK!
+## Don't forget to run the server!
 ```
-npm install canvas-confetti --save
+npm run serve
 ```
 
 
